@@ -1,0 +1,23 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "this is done to learn about testing using JEST Libraly",
+  "main": "stringLength.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandelatuks/test-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandelatuks/test-jest/issues"
+  },
+  "homepage": "https://github.com/mandelatuks/test-jest#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
